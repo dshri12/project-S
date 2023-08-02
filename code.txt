@@ -1,0 +1,3 @@
+From=ubuntu 14.2
+apt-get update -y
+apt-get install -y apache2
